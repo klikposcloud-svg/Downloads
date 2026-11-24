@@ -1,0 +1,18 @@
+{
+  "version": "4.1.91",
+  "buildNumber": 130,
+  "releaseDate": "2026-11-23",
+  "title": "KlikPOS Business 4.1.91",
+  "notes": [
+    "Tres portadas para el catalogo web, comprimidas automaticamente al subir.",
+    "Los asistentes ya no crean productos a partir de preguntas.",
+    "Atajos Ctrl + 1 al 0 y F1 a F10 como respaldo.",
+    "Fiado con numero de credito en el vale."
+  ],
+  "windowsUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v4.1.91/Kliko_Desktop_Full_Setup.exe",
+  "androidUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v4.1.91/KlikPOS_Movil_Full.apk",
+  "apkUrl": "https://github.com/klikposcloud-svg/Downloads/releases/download/v4.1.80/KlikoApp-4.1.70.apk",
+  "fallbackApkUrl": "https://github.com/klikposcloud-svg/Downloads/releases/download/v4.1.80/KlikoApp-4.1.70.apk",
+  "changelogUrl": "https://github.com/klikposcloud-svg/Downloads/releases/tag/4.1.91",
+  "mandatory": false
+}
