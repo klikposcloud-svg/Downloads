@@ -1,17 +1,21 @@
 {
-  "version": "4.1.99",
-  "buildNumber": 138,
+  "version": "4.1.101",
+  "buildNumber": 140,
   "releaseDate": "2026-11-26",
-  "title": "KlikPOS Business 4.1.99",
+  "title": "KlikPOS Business 4.1.101",
   "notes": [
-    "Sincronizacion con el telefono satelite: el canal LAN ya acepta el token que envia la app movil.",
-    "Las ventas enviadas desde el telefono se reciben una sola vez, aunque se reintente.",
-    "Incluye todo lo de la 4.1.98: revision de precios, duplicados, fiados como cuenta corriente, clientes, mesas y balanza."
+    "Vuelto redondo en bolivares: el cobro se ajusta al multiplo de 10 y el redondeo queda registrado en la venta, el ticket y el corte Z.",
+    "Billetes rapidos actualizados: 10, 20, 50, 100, 500, 1000 y 2000. Se elimino el de 5000.",
+    "Atajos de teclado por pantalla: F2 nuevo, F3 buscar, F4 importar, F8 cobrar, F9 exportar, segun donde estes. F1 muestra la ayuda.",
+    "Modulos activables desde Configuracion, con PIN opcional.",
+    "Sincronizacion con el telefono satelite protegida por plan.",
+    "Mesas y zonas editables, y orden por mesa.",
+    "Incluye lo anterior: revision de precios, duplicados, fiados como cuenta corriente, clientes con saldo real y balanza unificada."
   ],
-  "windowsUrl": "https://github.com/klikposcloud-svg/Downloads/releases/download/v4.1.99/KlikPOS-Enterprise-Setup-v4.1.99.exe",
-  "androidUrl": "https://github.com/klikposcloud-svg/Downloads/releases/download/v4.1.80/KlikoApp-4.1.70.apk",
+  "windowsUrl": "https://github.com/klikposcloud-svg/Downloads/releases/download/v4.1.101/KlikPOS-Enterprise-Setup-v4.1.101.exe",
+  "androidUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v4.1.101/KlikPOS_Movil_Full.apk",
   "apkUrl": "https://github.com/klikposcloud-svg/Downloads/releases/download/v4.1.80/KlikoApp-4.1.70.apk",
   "fallbackApkUrl": "https://github.com/klikposcloud-svg/Downloads/releases/download/v4.1.80/KlikoApp-4.1.70.apk",
-  "changelogUrl": "https://github.com/klikposcloud-svg/Downloads/releases/tag/v4.1.99",
+  "changelogUrl": "https://github.com/klikposcloud-svg/Downloads/releases/tag/v4.1.101",
   "mandatory": false
 }
