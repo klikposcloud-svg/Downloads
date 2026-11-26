@@ -1,18 +1,17 @@
 {
-  "version": "4.1.91",
-  "buildNumber": 130,
-  "releaseDate": "2026-11-23",
-  "title": "KlikPOS Business 4.1.91",
+  "version": "4.1.99",
+  "buildNumber": 138,
+  "releaseDate": "2026-11-26",
+  "title": "KlikPOS Business 4.1.99",
   "notes": [
-    "Tres portadas para el catalogo web, comprimidas automaticamente al subir.",
-    "Los asistentes ya no crean productos a partir de preguntas.",
-    "Atajos Ctrl + 1 al 0 y F1 a F10 como respaldo.",
-    "Fiado con numero de credito en el vale."
+    "Sincronizacion con el telefono satelite: el canal LAN ya acepta el token que envia la app movil.",
+    "Las ventas enviadas desde el telefono se reciben una sola vez, aunque se reintente.",
+    "Incluye todo lo de la 4.1.98: revision de precios, duplicados, fiados como cuenta corriente, clientes, mesas y balanza."
   ],
-  "windowsUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v4.1.91/Kliko_Desktop_Full_Setup.exe",
-  "androidUrl": "https://github.com/klikposcloud-svg/klikpos-releases/releases/download/v4.1.91/KlikPOS_Movil_Full.apk",
+  "windowsUrl": "https://github.com/klikposcloud-svg/Downloads/releases/download/v4.1.99/KlikPOS-Enterprise-Setup-v4.1.99.exe",
+  "androidUrl": "https://github.com/klikposcloud-svg/Downloads/releases/download/v4.1.80/KlikoApp-4.1.70.apk",
   "apkUrl": "https://github.com/klikposcloud-svg/Downloads/releases/download/v4.1.80/KlikoApp-4.1.70.apk",
   "fallbackApkUrl": "https://github.com/klikposcloud-svg/Downloads/releases/download/v4.1.80/KlikoApp-4.1.70.apk",
-  "changelogUrl": "https://github.com/klikposcloud-svg/Downloads/releases/tag/4.1.91",
+  "changelogUrl": "https://github.com/klikposcloud-svg/Downloads/releases/tag/v4.1.99",
   "mandatory": false
 }
